@@ -1,16 +1,12 @@
-## Hi there 👋
+🎓 CAUC Undergraduate Student  
+💻 Interested in Embedded Systems / Automation Tools  
 
-<!--
-**486287441/486287441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack
+- C
+- Python
+- Git
+- Linux
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open Source Projects
+- bilibili_transcriber
+- cauc-auto-evaluator
